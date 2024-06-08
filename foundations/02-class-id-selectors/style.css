@@ -1,0 +1,15 @@
+.odd {
+    background-color: rgb(191,124,124);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+.large-boy {
+    font-size: 24px;
+}
+#ocean {
+    color: #1122d9;
+    font-size: 36px;
+}
+#hulk {
+    background-color: hsl(88, 55%, 69%);
+    font-weight: 700;
+}
